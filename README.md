@@ -14,7 +14,7 @@ I'm currently training in the **React framework** and **TypeScript**.
 
 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸
 
-### Pieces of informations about me 🙂
+### Pieces of information about me 🙂
 
 As a curious person, I've always enjoyed tackling intellectual challenges, whether it's solving Sudoku puzzles or math exercises.
 My higher education opened the doors to programming : **I understood that working as a developer was made for me.**
